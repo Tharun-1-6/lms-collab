@@ -1,2 +1,1 @@
-# lms-collab
-SE LAB Experiment 7
+LMS Collab Library Management System
