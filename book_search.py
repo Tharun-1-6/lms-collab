@@ -1,4 +1,6 @@
 # book_search.py (Student A - Issue #1)
+
+# Sample book records used by the search function
 BOOKS = [
 {"title": "Software Engineering", "author": "Ian Sommerville"},
 {"title": "Software Engineering: A Practitioner's Approach", "author": "Roger Pressman"},
